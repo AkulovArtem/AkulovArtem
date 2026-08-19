@@ -79,7 +79,7 @@
 
 [«Актуальные версии Chrome»](https://chromewebstore.google.com/detail/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8-chrome/ddgcjmfcaigpnogdlomaiekmfjhbokbg) — бесплатное расширение для Chrome. Показывает свежие стабильные версии Chrome для Windows и Android, копирование в один клик. Страница: [artemakulov.ru/chrome-versions](https://artemakulov.ru/chrome-versions/).
 
-[«Backlink Checker»](https://artemakulov.ru/backlink-checker/) — бесплатная программа для Windows: проверяет доноров на наличие ссылок, rel, анкор и индексируемость.
+[«Backlink Checker»](https://artemakulov.ru/backlink-checker/) — бесплатная программа для Windows и MacOS: проверяет доноров на наличие ссылок, rel, анкор и индексируемость.
 
 Подкаст [PRO SEO](https://www.youtube.com/@AkulovPRO) — на YouTube, VK, Spotify, Apple Podcasts, Яндекс Музыке.
 
