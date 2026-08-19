@@ -6,7 +6,7 @@
 <tr>
 <td valign="top">
 
-Продвигаю собственные и клиентские проекты в Яндекс и Google с 2014 года. Больше всего работаю с интернет-магазинами, медицинскими сайтами и сервисным бизнесом. Делаю iGaming на зарубежных рынках.
+Специализируюсь на самых эффективных методах продвижения сайтов в Яндекс и Google. Продвигаю собственные и клиентские проекты с 2014 года. Большая экспертиза в продвижении интернет-магазинов, медицинских сайтов и сервисных бизнесов.
 
 Автор методик по улучшению поведенческих факторов и защите сайтов от негативных ботов, спама и парсеров. Пишу бесплатные инструменты: программу [Backlink Checker](https://artemakulov.ru/backlink-checker/) и расширение [«Актуальные версии Chrome»](https://chromewebstore.google.com/detail/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8-chrome/ddgcjmfcaigpnogdlomaiekmfjhbokbg).
 
@@ -27,7 +27,7 @@
   <a href="https://chromewebstore.google.com/detail/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8-chrome/ddgcjmfcaigpnogdlomaiekmfjhbokbg"><img src="https://img.shields.io/badge/Chrome-расширение-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
 </p>
 
-## Чем занимаюсь
+## Делаю
 
 Полный цикл SEO: аудит, контент, линкбилдинг, PBN, накрутка ПФ, защита от негативных ботов.
 
@@ -45,11 +45,11 @@
 - [Воскрешение магазина автозапчастей: 80 000 пользователей и 20 млн руб. на SEO-трафике](https://vc.ru/seo/359664-voskreshaem-internet-magazin-avtozapchastey-i-delaem-20-mln-rubley-na-seo-trafike)
 - [Контентный проект до 200 000 пользователей и 1,8 млн руб. в месяц](https://vc.ru/seo/530263-dengi-iz-vozduha-rastim-seo-trafik-do-200k-i-delaem-1-8-mln-rubley-v-mesyac-v-kontentnom-proekte)
 
-Ещё кейсы: [все работы](https://artemakulov.ru/work/) · [Telegram](https://t.me/akulov_pro)
+Ещё кейсы: [на моем сайте](https://artemakulov.ru/work/) и [Telegram-канале](https://t.me/akulov_pro)
 
-### Скриншоты по накрутке ПФ
+## Накрутка ПФ
 
-Клик по превью открывает полный скриншот.
+Кейсы по накрутке ПФ. Обеспечиваю результаты в течении недели. Клик по превью открывает полный скриншот.
 
 <table>
 <tr>
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
-## Инструменты
+## Создаю инструменты для SEO
 
 [«Актуальные версии Chrome»](https://chromewebstore.google.com/detail/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8-chrome/ddgcjmfcaigpnogdlomaiekmfjhbokbg) — бесплатное расширение для Chrome. Показывает свежие стабильные версии Chrome для Windows и Android, копирование в один клик. Страница: [artemakulov.ru/chrome-versions](https://artemakulov.ru/chrome-versions/).
 
