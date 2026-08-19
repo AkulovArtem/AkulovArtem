@@ -4,13 +4,6 @@
 
 Образование: МГТУ им. Н. Э. Баумана, факультет Электроники, Информатики, Управления. Спикер: CyberMarketing, 1С-Битрикс, SEO Club SPB, СТАЧКА, SEO Club Красноярск.
 
-</td>
-<td valign="top" width="220">
-<img src="https://artemakulov.ru/ArtemAkulov.jpg" width="200" alt="Артём Акулов">
-</td>
-</tr>
-</table>
-
 <p>
   <a href="https://artemakulov.ru"><img src="https://img.shields.io/badge/Сайт-artemakulov.ru-3B82F6?style=flat-square" alt="Сайт"></a>
   <a href="https://t.me/akulov_pro"><img src="https://img.shields.io/badge/Telegram-akulov__pro-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
