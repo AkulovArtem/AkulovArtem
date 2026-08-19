@@ -53,37 +53,37 @@
 
 <table>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/1.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/1-thumbnail.webp" width="180" alt="Кейс ПФ 1"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/2.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/2-thumbnail.webp" width="180" alt="Кейс ПФ 2"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/3.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/3-thumbnail.webp" width="180" alt="Кейс ПФ 3"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/4.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/4-thumbnail.webp" width="180" alt="Кейс ПФ 4"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/1.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/1.jpg" width="180" alt="Кейс ПФ 1"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/2.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/2.jpg" width="180" alt="Кейс ПФ 2"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/3.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/3.jpg" width="180" alt="Кейс ПФ 3"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/4.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/4.jpg" width="180" alt="Кейс ПФ 4"></a></td>
 </tr>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/5.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/5-thumbnail.webp" width="180" alt="Кейс ПФ 5"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/6.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/6-thumbnail.webp" width="180" alt="Кейс ПФ 6"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/7.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/7-thumbnail.webp" width="180" alt="Кейс ПФ 7"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/8.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/8-thumbnail.webp" width="180" alt="Кейс ПФ 8"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/5.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/5.jpg" width="180" alt="Кейс ПФ 5"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/6.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/6.jpg" width="180" alt="Кейс ПФ 6"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/7.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/7.jpg" width="180" alt="Кейс ПФ 7"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/8.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/8.jpg" width="180" alt="Кейс ПФ 8"></a></td>
 </tr>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/9.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/9-thumbnail.webp" width="180" alt="Кейс ПФ 9"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/10.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/10-thumbnail.webp" width="180" alt="Кейс ПФ 10"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/11.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/11-thumbnail.webp" width="180" alt="Кейс ПФ 11"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/12.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/12-thumbnail.webp" width="180" alt="Кейс ПФ 12"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/9.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/9.jpg" width="180" alt="Кейс ПФ 9"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/10.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/10.jpg" width="180" alt="Кейс ПФ 10"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/11.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/11.jpg" width="180" alt="Кейс ПФ 11"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/12.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/12.jpg" width="180" alt="Кейс ПФ 12"></a></td>
 </tr>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/13.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/13-thumbnail.webp" width="180" alt="Кейс ПФ 13"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/14.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/14-thumbnail.webp" width="180" alt="Кейс ПФ 14"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/15.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/15-thumbnail.webp" width="180" alt="Кейс ПФ 15"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/16.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/16-thumbnail.webp" width="180" alt="Кейс ПФ 16"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/13.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/13.jpg" width="180" alt="Кейс ПФ 13"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/14.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/14.jpg" width="180" alt="Кейс ПФ 14"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/15.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/15.jpg" width="180" alt="Кейс ПФ 15"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/16.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/16.jpg" width="180" alt="Кейс ПФ 16"></a></td>
 </tr>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/17.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/17-thumbnail.webp" width="180" alt="Кейс ПФ 17"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/18.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/18-thumbnail.webp" width="180" alt="Кейс ПФ 18"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/19.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/19-thumbnail.webp" width="180" alt="Кейс ПФ 19"></a></td>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/20.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/20-thumbnail.webp" width="180" alt="Кейс ПФ 20"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/17.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/17.jpg" width="180" alt="Кейс ПФ 17"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/18.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/18.jpg" width="180" alt="Кейс ПФ 18"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/19.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/19.jpg" width="180" alt="Кейс ПФ 19"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/20.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/20.jpg" width="180" alt="Кейс ПФ 20"></a></td>
 </tr>
 <tr>
-<td><a href="https://artemakulov.ru/media/posts/34/gallery/31.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/31-thumbnail.webp" width="180" alt="Кейс ПФ 21"></a></td>
+<td><a href="https://artemakulov.ru/media/posts/34/gallery/31.jpg"><img src="https://artemakulov.ru/media/posts/34/gallery/31.jpg" width="180" alt="Кейс ПФ 21"></a></td>
 <td></td>
 <td></td>
 <td></td>
